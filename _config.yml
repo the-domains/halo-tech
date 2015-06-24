@@ -1,6 +1,6 @@
 name: Halo Technologies
 favicon: null
-layout_spectrum: 0.5
+layout_spectrum: 0.15885
 typography_spectrum: 0.5
 purposes:
   - followers
@@ -19,11 +19,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - "#7f85ae"
-    - "#a4a6c4"
-    - "#5e5a60"
-    - "#e6e6ed"
-    - "#c6c6d9"
+    - '#7f85ae'
+    - '#a4a6c4'
+    - '#5e5a60'
+    - '#e6e6ed'
+    - '#c6c6d9'
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
