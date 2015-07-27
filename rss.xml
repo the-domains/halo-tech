@@ -5,8 +5,15 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>https://thegrid.ai/halo-tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jul 2015 20:34:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2015 20:34:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/halo-tech/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bbf6f8b-fe19-4ea7-9c67-acba6bd924b1.jpg">]]></description>
+            <link>https://thegrid.ai/halo-tech/62e782bb-e72a-4d46-a9b9-3ad74a24382e/index.html</link>
+            <guid isPermaLink="false">62e782bb-e72a-4d46-a9b9-3ad74a24382e</guid>
+            <pubDate>Mon, 27 Jul 2015 20:34:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/30e3ecaf-ddeb-4104-a0c0-aaf4fe1ba885.jpg">]]></description>
