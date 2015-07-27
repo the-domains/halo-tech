@@ -1,7 +1,7 @@
 name: Halo Technologies
 favicon: null
-layout_spectrum: 0.53947
-typography_spectrum: 0.83772
+layout_spectrum: 0
+typography_spectrum: 0.35217
 purposes:
   - followers
 title: actionable intelligence for connected products
@@ -27,4 +27,5 @@ color:
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
