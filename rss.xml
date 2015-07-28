@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Untitled RSS Feed]]></title>
-        <description><![CDATA[Untitled RSS Feed]]></description>
+        <title><![CDATA[actionable intelligence for connected products]]></title>
+        <description><![CDATA[actionable intelligence for connected products]]></description>
         <link>https://thegrid.ai/halo-tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jul 2015 20:35:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2015 18:13:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/halo-tech/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dashboards]]></title>
+            <description><![CDATA[<article><h1>Dashboards</h1><p>The Google Play Developer Console also provides detailed statistics about your users' devices. Those stats may help you prioritize the device profiles for which you optimize your app. This page provides information about the relative number of devices that share a certain characteristic, such as Android version or screen size.</p><img src="http://chart.googleapis.com/chart?chl=GL%202.0%7CGL%203.0%7CGL%203.1&chf=bg%2Cs%2C00000000&chd=t%3A63.0%2C35.0%2C2.0&chco=c4df9b%2C6fad0c&cht=p&chs=400x250"></article>]]></description>
+            <link>http://developer.android.com/intl/zh-CN/about/dashboards/index.html</link>
+            <guid isPermaLink="false">32b49996-ecba-48ff-b0f1-2c3618cee436</guid>
+            <pubDate>Tue, 28 Jul 2015 18:07:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/97bc5b60-d54d-49ce-a1c0-15ef4e7e67e4.jpg">]]></description>
