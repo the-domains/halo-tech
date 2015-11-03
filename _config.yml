@@ -1,4 +1,19 @@
-analytics: {}
+name: Halo Technologies
+favicon: null
+layout_spectrum: 0.231981
+typography_spectrum: 0.73502
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#C8C0A8'
@@ -8,11 +23,6 @@ color:
     - '#F0E8D0'
   brandStrength: 1
   lightness: 0.6875
-  rhythmicContrast: 1
   saturation: 0.8125
-cta: {}
-layout_spectrum: 0.231981
-name: Halo Technologies
-opengraph: {}
+  rhythmicContrast: 1
 purpose: []
-typography_spectrum: 0.73502
