@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Halo Technologies]]></title>
+        <description><![CDATA[Halo Technologies]]></description>
+        <link>https://thegrid.ai/halo-tech/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 11 Nov 2015 19:34:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/halo-tech/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/937a2ec5-530f-4cdc-ae4f-221eef834c00.png">]]></description>
+            <link>https://thegrid.ai/halo-tech/8a03c05b-666b-4c91-bdda-0f4b2cbc8b1c/index.html</link>
+            <guid isPermaLink="false">8a03c05b-666b-4c91-bdda-0f4b2cbc8b1c</guid>
+            <pubDate>Sat, 07 Nov 2015 17:25:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Halo Technologies]]></title>
+            <description><![CDATA[<article><h1>Halo Technologies</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e0e7db7-5eba-467a-8df6-3374d722d4ba.jpg"></article>]]></description>
+            <link>https://thegrid.ai/halo-tech/halo-technologies/index.html</link>
+            <guid isPermaLink="false">571dc381-31f2-4735-b48c-0802155f858f</guid>
+            <pubDate>Sat, 10 Oct 2015 01:19:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Halo-tech]]></title>
+            <description><![CDATA[<article><h1>Halo-tech</h1><p>SF</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a3f5131e8602e22df0c6e44bdb01c3d8/gradientmap.jpg?stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&color1=%232A0909&color2=%23541212&color3=%23A72525&color4=%23B3B3B3&color5=%23E6E6E6&srgb=True&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F97bc5b60-d54d-49ce-a1c0-15ef4e7e67e4.jpg&width=1864&height=1242"></article>]]></description>
+            <link>https://thegrid.ai/halo-tech/</link>
+            <guid isPermaLink="false">74efb621-84aa-4133-b486-861a2c7ce61e</guid>
+            <pubDate>Wed, 11 Nov 2015 19:33:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who We Are]]></title>
+            <description><![CDATA[<article><h1>Who We Are</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/97bc5b60-d54d-49ce-a1c0-15ef4e7e67e4.jpg"></article>]]></description>
+            <link>https://thegrid.ai/halo-tech/who-we-are/index.html</link>
+            <guid isPermaLink="false">35b3c90a-50dd-4ce8-bf16-2597848e9551</guid>
+            <pubDate>Sat, 10 Oct 2015 01:19:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
