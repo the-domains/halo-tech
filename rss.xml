@@ -2,21 +2,14 @@
     <channel>
         <title><![CDATA[Halo Technologies]]></title>
         <description><![CDATA[Halo Technologies]]></description>
-        <link>https://thegrid.ai/halo-tech/</link>
+        <link>http://www.halotech.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 Nov 2015 20:34:17 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/halo-tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Product]]></title>
-            <description><![CDATA[<article><h1>Product</h1><p>Machine learning / optimization</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/79a29b58-26fb-4a9d-945e-a68d7d3e10dd.jpg"></article>]]></description>
-            <link>https://thegrid.ai/halo-tech/product/index.html</link>
-            <guid isPermaLink="false">53249748-aff9-4380-b775-d14bab7b8591</guid>
-            <pubDate>Sat, 21 Nov 2015 20:30:33 GMT</pubDate>
-        </item>
+        <lastBuildDate>Wed, 20 Jan 2016 18:10:42 GMT</lastBuildDate>
+        <atom:link href="http://www.halotech.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Who We Are]]></title>
-            <description><![CDATA[<article><h1>Who We Are</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/97bc5b60-d54d-49ce-a1c0-15ef4e7e67e4.jpg"></article>]]></description>
-            <link>https://thegrid.ai/halo-tech/who-we-are/index.html</link>
+            <description><![CDATA[<article><h1>Who We Are</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d1638fce36f5181fc667b928be0195a479914155.jpg"></article>]]></description>
+            <link>http://www.halotech.io/who-we-are/index.html</link>
             <guid isPermaLink="false">35b3c90a-50dd-4ce8-bf16-2597848e9551</guid>
             <pubDate>Sat, 10 Oct 2015 01:19:22 GMT</pubDate>
         </item>
