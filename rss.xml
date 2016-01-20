@@ -4,8 +4,15 @@
         <description><![CDATA[Halo Technologies]]></description>
         <link>http://www.halotech.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 18:10:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jan 2016 18:12:35 GMT</lastBuildDate>
         <atom:link href="http://www.halotech.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hiring]]></title>
+            <description><![CDATA[<article><h1>Hiring</h1><p>We are hiring great software engineers and data scientists!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5dbb49bab4834c01262bd18f72b52efe9907bc64.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bbf6f8b-fe19-4ea7-9c67-acba6bd924b1.jpg</link>
+            <guid isPermaLink="false">62e782bb-e72a-4d46-a9b9-3ad74a24382e</guid>
+            <pubDate>Wed, 20 Jan 2016 18:12:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Who We Are]]></title>
             <description><![CDATA[<article><h1>Who We Are</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d1638fce36f5181fc667b928be0195a479914155.jpg"></article>]]></description>
