@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Halo Technologies]]></title>
-        <description><![CDATA[Halo Technologies]]></description>
+        <title><![CDATA[Halo Tech]]></title>
+        <description><![CDATA[Halo Tech]]></description>
         <link>http://www.halotech.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 18:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2016 16:51:53 GMT</lastBuildDate>
         <atom:link href="http://www.halotech.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://gerdleonhard.typepad.com/.a/6a00d8341c59be53ef016764638956970b-580wi">]]></description>
+            <link>http://www.halotech.io/066ca3f0-866e-4ae6-945d-6b85e9904b00/index.html</link>
+            <guid isPermaLink="false">066ca3f0-866e-4ae6-945d-6b85e9904b00</guid>
+            <pubDate>Tue, 01 Mar 2016 16:49:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Hiring]]></title>
-            <description><![CDATA[<article><h1>Hiring</h1><p>We are hiring great software engineers and data scientists!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5dbb49bab4834c01262bd18f72b52efe9907bc64.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Hiring</h1><p>We are hiring great software engineers and data scientists!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae42a8d7128157b46a2794224eb6297dc21b2ee2.jpg"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bbf6f8b-fe19-4ea7-9c67-acba6bd924b1.jpg</link>
             <guid isPermaLink="false">62e782bb-e72a-4d46-a9b9-3ad74a24382e</guid>
             <pubDate>Wed, 20 Jan 2016 18:12:33 GMT</pubDate>
