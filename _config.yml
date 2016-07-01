@@ -2,6 +2,7 @@ name: Halo Technologies
 favicon: null
 layout_spectrum: 0.36881
 typography_spectrum: 0.6678058269899338
+style: the-composer
 collections:
   - index:
       path: /
